@@ -97,7 +97,7 @@ El sistema está diseñado bajo una arquitectura de **microservicios**, lo que p
 
 > ⚠️ Ajusta esto según lo que realmente uses
 
-- Backend: Spring Boot  
+- Backend: NestJS
 - Base de datos: PostgreSQL  
 - Arquitectura: Microservicios  
 - Contenedores: Docker  
